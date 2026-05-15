@@ -1,0 +1,70 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(90, 245, 193);
+    
+    padding: 20px;
+
+    border-color: black;
+
+}
+#port .nav {
+   list-style: none;
+   display: flex;
+   justify-content: space-between;
+}
+#port .nav li{
+    padding: 20px;
+}
+header h2{
+    margin-left: 550px;
+    
+}
+#hardik{
+    display: flex;
+    background-color:rgb(247, 136, 136);
+
+
+
+}
+#hardik .hari img {
+    height:450px;
+    width:400px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+#harsan p {
+    background-color: rgb(255, 255, 255);
+    padding:50px;
+    border-radius: 10px;
+    border:solid;
+    margin:40px;
+}
+#harsan h3{
+    text-align: center;
+   
+}
+#jack h3{
+    text-align: center;
+}
+.career{
+    text-align: center;
+} 
+ body{
+    text-align: center;
+ }
+@media(max-width:600px)
+{
+#hardik {
+    background-color: black;
+    
+}
+}
+@media(max-width:800px)
+{
+#hardik{
+    background-color: aqua;
+    
+} 
+}

@@ -1,0 +1,63 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+    padding: 10px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img
+{
+    display: flex;
+    align-items: center;
+    margin-left: ;
+}
+.logo img{
+height: 40px;
+width: 40px;
+margin-right: 10px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+}
+.navbar li{
+    list-style: none;
+    margin-left: 20px;
+}
+.logo h3{
+    font-size: x-large;
+}
+.hero img{
+    width: 300px;
+    height: 300px;
+
+}
+.hero{
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+    background-color: darkgreen;
+}
+.hero p{
+    width: 400px;
+}
+.features{
+    align-items: center;
+    display:flex ;
+    padding: 20px;
+    justify-content: space-between;
+    background-color: aqua;
+}
+.features li{
+ list-style: none;
+ border-color: black;
+ border-style: double;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+}

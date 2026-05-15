@@ -1,0 +1,21 @@
+header{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+    nav{
+        display: flex;
+        justify-content: space-around;
+    }
+li{
+    list-style: none;
+    margin-left: 20px;
+}
+#content{
+    background-color: brown;
+    display: flex;
+    padding: 40px;
+    justify-content: space-around;
+}
